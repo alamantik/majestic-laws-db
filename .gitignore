@@ -41,5 +41,9 @@ pip-delete-this-directory.txt
 test.py
 debug.py
 
+bot.py
+requirements.txt
+sources.json
+
 # НЕ игнорируем output/ - эта папка должна попасть в Git!
 # Файлы JSON в output/ будут коммититься
