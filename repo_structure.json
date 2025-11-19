@@ -1,0 +1,29 @@
+{
+  "laws": {
+    "files": [
+      "atlanta-5.json",
+      "boston-12.json",
+      "chicago-3.json",
+      "dallas-11.json",
+      "denver-16.json",
+      "detroit-2.json",
+      "houston-13.json",
+      "las vegas-9.json",
+      "los angeles-7.json",
+      "miami-8.json",
+      "new york-1.json",
+      "phoenix-15.json",
+      "san diego-6.json",
+      "san francisco-4.json",
+      "seattle-14.json",
+      "washington-10.json"
+    ]
+  },
+  "rules": {
+    "files": [
+      "events.json",
+      "general.json",
+      "organizations.json"
+    ]
+  }
+}
