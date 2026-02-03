@@ -28,7 +28,9 @@ Thumbs.db
 
 # Logs
 *.log
+*.txt
 logs/
+content_logs/
 
 # Python tools
 pip-log.txt
