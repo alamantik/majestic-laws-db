@@ -1,6 +1,6 @@
 general/faction-leaders | url=https://forum.majestic-rp.ru/threads/pravila-dlya-liderov-fraktsii.8048
 chunks=1
-generatedAt=2026-04-07T14:17:28
+generatedAt=2026-04-07T15:57:06
 
 [CHUNK 1/1 | len=7388]
 1. Общее положение​
