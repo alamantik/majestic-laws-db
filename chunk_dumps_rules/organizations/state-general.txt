@@ -1,6 +1,6 @@
 organizations/state-general | url=https://forum.majestic-rp.ru/threads/pravila-gosudarstvennykh-organizatsii.8672
 chunks=2
-generatedAt=2026-04-07T16:13:51
+generatedAt=2026-04-26T16:47:19
 
 [CHUNK 1/2 | len=16751]
 1. Общее положение​
