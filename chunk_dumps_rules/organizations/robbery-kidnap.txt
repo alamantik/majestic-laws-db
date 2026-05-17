@@ -1,6 +1,6 @@
 organizations/robbery-kidnap | url=https://forum.majestic-rp.ru/threads/pravila-ograblenii-i-pokhishchenii.8254
 chunks=1
-generatedAt=2026-05-15T17:31:23
+generatedAt=2026-05-17T03:12:01
 
 [CHUNK 1/1 | len=14028]
 Общее положение​
