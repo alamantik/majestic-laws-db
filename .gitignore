@@ -39,13 +39,12 @@ pip-delete-this-directory.txt
 .coverage
 .pytest_cache/
 
-# Local testing
-test.py
-debug.py
-
-bot.py
+# Локальный код бота — в laws-db только JSON (laws/, rules/, index)
+*.py
 requirements.txt
 sources.json
+chunk_dumps_rules/
+icons/
 
 # НЕ игнорируем output/ - эта папка должна попасть в Git!
 # Файлы JSON в output/ будут коммититься
