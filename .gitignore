@@ -16,6 +16,10 @@ ENV/
 .env
 .env.local
 
+# Playwright forum auth session (cookies / localStorage)
+auth/
+*.state.json
+
 # IDE
 .vscode/
 .idea/
