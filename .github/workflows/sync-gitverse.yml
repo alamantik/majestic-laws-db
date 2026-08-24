@@ -1,0 +1,27 @@
+name: Sync GitVerse
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Push mirror to GitVerse
+        env:
+          GITVERSE_TOKEN: ${{ secrets.GITVERSE_TOKEN }}
+        run: |
+          set -euo pipefail
+          if [ -z "${GITVERSE_TOKEN}" ]; then
+            echo "Secret GITVERSE_TOKEN is not set"
+            exit 1
+          fi
+
+          git remote add gitverse "https://oauth2:${GITVERSE_TOKEN}@gitverse.ru/Alamantik/majestic-laws-db.git"
+          git push gitverse HEAD:refs/heads/main
