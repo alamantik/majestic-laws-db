@@ -28,5 +28,19 @@
       "general.json",
       "organizations.json"
     ]
+  },
+  "laws_ro": {
+    "files": [
+      "arbatsky.json",
+      "kutuzovsky.json",
+      "tverskoy.json"
+    ]
+  },
+  "rules_ro": {
+    "files": [
+      "events.json",
+      "general.json",
+      "organizations.json"
+    ]
   }
 }
