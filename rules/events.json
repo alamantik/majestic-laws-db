@@ -1,5 +1,5 @@
 {
-  "updatedAt": 1790549904155,
+  "updatedAt": 1791980262893,
   "data": {
     "workshops-dealers": {
       "url": "https://forum.majestic-rp.ru/threads/pravila-zakhvata-tsekhov-dilerov.1823529",
@@ -69,15 +69,6 @@
         },
         {
           "code": "2.1",
-          "title": "Во время мероприятия семья / бандам разрешен 1 IC союз.",
-          "text": null,
-          "explanation": null,
-          "note": "должна быть заключена союзная дипломатия.",
-          "exception": null,
-          "penalty": "Выговор лидеру."
-        },
-        {
-          "code": "2.2",
           "title": "Запрещен трансфер / игра за несколько фракций / семей.",
           "text": null,
           "explanation": null,
@@ -86,7 +77,7 @@
           "penalty": "HardBan 30 дней."
         },
         {
-          "code": "2.3",
+          "code": "2.2",
           "title": "В случае встречи нескольких криминальных организаций обязательно нужно начать перестрелку друг с другом.",
           "text": null,
           "explanation": null,
@@ -138,6 +129,15 @@
           "note": null,
           "exception": null,
           "penalty": "Ban 10 дней + изъятие содержимого."
+        },
+        {
+          "code": "3.6",
+          "title": "Запрещены любые союзы.",
+          "text": null,
+          "explanation": null,
+          "note": null,
+          "exception": null,
+          "penalty": "Выговор лидеру."
         }
       ]
     },
